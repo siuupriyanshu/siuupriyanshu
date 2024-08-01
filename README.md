@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node js, express js, next js.
 - 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me ...
-- 😄 Pronouns: madal
+- 😄 Pronouns: mandal
 - ⚡ Fun fact: i started coding at age of 15
 
 <!---
