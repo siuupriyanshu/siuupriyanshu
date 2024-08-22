@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @siuupriyanshu<br>👀 I’m interested in learning new technologies<br>🌱 I’m currently learning node js, express js, next js.<br>💞️ I’m looking to collaborate on MERN projects<br>📫 How to reach me ...<br>😄 Pronouns: mandal<br>⚡ Fun fact: i started coding at age of 15
+👋 Hi, I’m @siuupriyanshu<br>👀 I’m interested in learning new technologies<br>🌱 I’m currently learning node js, express js, next js.<br>💞️ I’m looking to collaborate on MERN projects<br>📫 How to reach me ...<br>😄 Pronouns: mandal<br>⚡ Fun fact: i am pro in watching movies, series and anime.
 
 
 ## 🌐 Socials:
